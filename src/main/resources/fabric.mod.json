@@ -4,20 +4,20 @@
   "version": "${version}",
   "name": "autocrossbow",
   "description": "",
-  "authors": ["smoky"],
+  "authors": ["sumomodayo"],
   "contact": {},
   "license": "All-Rights-Reserved",
   "icon": "assets/autocrossbow/icon.png",
   "environment": "client",
   "entrypoints": {
     "fabric-datagen": [
-      "org.smoky.autocrossbow.client.AutocrossbowDataGenerator"
+      "org.sumomodayo.autocrossbow.client.AutocrossbowDataGenerator"
     ],
     "client": [
-      "org.smoky.autocrossbow.client.AutocrossbowClient"
+      "org.sumomodayo.autocrossbow.client.AutocrossbowClient"
     ],
     "main": [
-      "org.smoky.autocrossbow.Autocrossbow"
+      "org.sumomodayo.autocrossbow.Autocrossbow"
     ]
   },
   "mixins": [

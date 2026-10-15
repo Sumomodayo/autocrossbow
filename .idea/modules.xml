@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocrossbow.client.iml" filepath="$PROJECT_DIR$/.idea/modules/autocrossbow.client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocrossbow.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autocrossbow.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocrossbow.test.iml" filepath="$PROJECT_DIR$/.idea/modules/autocrossbow.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autocrossbow.iml" filepath="$PROJECT_DIR$/.idea/autocrossbow.iml" />
     </modules>
   </component>
 </project>

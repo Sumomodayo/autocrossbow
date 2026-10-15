@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "org.smoky.autocrossbow.mixin.client",
+  "package": "org.sumomodayo.autocrossbow.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
   ],
